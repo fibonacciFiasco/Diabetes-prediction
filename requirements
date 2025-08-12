@@ -1,0 +1,9 @@
+
+---
+
+## **3️⃣ requirements.txt**
+```txt
+pandas
+numpy
+matplotlib
+scikit-learn
